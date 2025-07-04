@@ -8,7 +8,7 @@ A passionate Full Stack Developer from India 🇮🇳
 - 🌱 I’m currently learning **ReactJS, Next.js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Django, MySQL, APIs**
-- 📫 How to reach me **yourmail@gmail.com**
+- 📫 How to reach me **manikandanmk1657@gmail.com**
 - 📄 Know about my experiences [My Resume](https://yourlink.com)
 
 ### ⚙️ Tech Stack:
