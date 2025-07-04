@@ -1,75 +1,57 @@
 <h1 align="center">Hi 👋, I'm Manikandan A</h1>
-<h3 align="center">💻 Passionate Full Stack Developer | 🌱 Constant Learner | 🇮🇳 From India</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikandan16A&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" alt="SQL illustration" width="200" />
 </p>
 
 ---
 
-### 💼 About Me
+### 📌 Quick Facts
 
-- 🔭 I’m currently working on **Billing Software**
-- 🌱 Learning: **ReactJS**, **Next.js**
-- 👯 Open to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Django**, **MySQL**, **REST APIs**
+- 🔭 I'm currently working on **Billing Software**
+- 🌱 I'm currently learning **ReactJS, Next.js**
+- 👯 I'm collaborating on **Open Source Projects**
+- 💬 Ask me about **Django, MySQL, REST APIs**
+- 🛠️ Frameworks used: `Django`, `Express.js`, `SQL`
 - 📫 Reach me at: **manikandanmk1657@gmail.com**
-- 📄 Check out my [Resume](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
+- 📄 Know about my experience:  
+  [![Resume](https://img.shields.io/badge/-Click%20to%20View%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white)](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
+
+---
+
+### 🏆 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan16A&theme=radical&no-bg=true&no-frame=true" />
+</p>
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan16A&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan16A&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🏆 Achievements
-
-- 🥇 **SkillRack** – 2299+ programs solved, Rank: 1386  
-- 💻 **LeetCode** – 175+ problems solved  
-- 👨‍💼 Vice President, **IT Computer Society Student Branch**  
-- 🔧 Projects include: Billing System, Dual-Lens Face Recognition, Volunteer Platform
-
----
-
-### 🚀 Featured Projects
-
-🔹 [🧾 Django Billing Software](#)  
-🔹 [🤝 Volunteer Matching Platform](#)  
-🔹 [📸 Dual-Lens Face Recognition System](#)
-
-> _(Link your actual GitHub repos above!)_
-
----
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manikandanmk1657@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Manikandan16A"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:manikandanmk1657@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Building+real+projects...;Learning+new+tech+daily...;Contributing+to+Open+Source...;Coding+My+Way+Forward+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Thanks+for+visiting+my+profile!+;Let's+build+something+great+🚀" />
 </p>
