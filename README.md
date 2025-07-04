@@ -9,7 +9,7 @@
 
 ### 📌 Quick Facts
 
-- 🔭 I'm currently working on **Billing Software**
+- 🔭 I'm currently working on **Farmer Crate**
 - 🌱 I'm currently learning **ReactJS, Next.js**
 - 👯 I'm collaborating on **Open Source Projects**
 - 💬 Ask me about **Django, MySQL, REST APIs**
