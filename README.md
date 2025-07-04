@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manikandan MK
+# Hi 👋, I'm Manikandan A
 
 A passionate Full Stack Developer from India 🇮🇳
 
@@ -9,7 +9,7 @@ A passionate Full Stack Developer from India 🇮🇳
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Django, MySQL, APIs**
 - 📫 How to reach me **manikandanmk1657@gmail.com**
-- 📄 Know about my experiences [My Resume](https://yourlink.com)
+- 📄 Know about my experiences [My Resume]([https://yourlink.com](https://rxresu.me/manikandanmk1657/manikandan-a-resume))
 
 ### ⚙️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
