@@ -18,7 +18,7 @@
 - 🔭 Currently building **Farmer Crate** – a farmer-focused tech platform  
 - 🌱 Learning **ReactJS**, **Next.js**  
 - 🤝 Collaborating on impactful projects like [FarmerCrate App](https://github.com/Manikandan16A/FarmerCrate.git)
-- 💬 Ask me about: `Django`, `REST APIs`, `Express.js`, `MySQL`  
+- 💬 Ask me about: `Django`, `REST APIs`, `Java`, `SQL`  
 - 📫 Reach me at: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)  
 - 📄 [View My Resume](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
 
