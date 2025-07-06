@@ -3,7 +3,7 @@
 
 <!-- 📽️ Animated Coding GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-white.svg" alt="coding animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="80%" />
 </p>
 
 <!-- Profile Views -->
