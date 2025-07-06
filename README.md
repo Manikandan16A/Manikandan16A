@@ -1,42 +1,36 @@
-<h1 align="center">Hi 👋, I'm Manikandan A</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#1E90FF">Manikandan A</span></h1>
+<h3 align="center">💻 Full Stack Developer | ❤️ Passionate Coder | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="200" alt="SQL Illustration"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="150" alt="developer icon" />
 </p>
 
 ---
 
-## 📌 Quick Facts
+## ✨ About Me
 
-- 🧑‍💻 I'm currently working on **Farmer Crate**
-- 🌱 I'm currently learning **ReactJS**, **Next.js**
-- 🤝 I'm collaborating on **Open Source Projects**
+- 🔭 I'm currently working on **Farmer Crate**
+- 🌱 Learning **ReactJS**, **Next.js**
+- 🤝 Collaborating on **Open Source Projects**
 - 💬 Ask me about: `Django`, `MySQL`, `REST APIs`
 - 🛠️ Frameworks Used: `Django`, `Express.js`, `SQL`
-- 📫 Reach me at: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)
-- 📄 Know about my experience:  
-  [![Resume](https://img.shields.io/badge/Click_to_View_Resume-blue?style=flat-square&logo=google-drive&logoColor=white)](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
+- 📫 Email: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)
+- 📄 [Click to View Resume](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
+
+---
+
+## 🧠 Languages I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,mysql" height="40" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan16A&theme=flat&row=2&column=4" />
-</p>
-
----
-
-## 🧠 Programming Languages
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manikandan16A&theme=gruvbox_light&margin-w=15&margin-h=15&title=Commits,Repositories,Followers,PullRequest,Stars" />
 </p>
 
 ---
@@ -44,28 +38,32 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manikandan16A&layout=compact&theme=default&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan16A&show_icons=true&theme=default&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manikandan16A&show_icons=true&theme=vue&border_radius=10&hide_title=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan16A&theme=vue&border_radius=10" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan16A&layout=compact&theme=vue&langs_count=6" width="48%" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:manikandanmk1657@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:manikandanmk1657@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Manikandan16A">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Manikandan16A" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Keep+Learning...;Keep+Coding...;Keep+Building...;🚀+Let's+Create+Something+Awesome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Backend+Focused.;Frontend+Fluent.;Open+Source+Friendly.;Let's+Code+Something+Great!+🚀" />
 </p>
