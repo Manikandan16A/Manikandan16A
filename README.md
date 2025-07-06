@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="coding animation" width="80%" />
 </p>
 
-
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manikandan16A&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -18,8 +16,8 @@
 ## 🔍 About Me
 
 - 🔭 Currently building **Farmer Crate** – a farmer-focused tech platform  
-- 🌱 Learning **ReactJS**, **Next.js**, and **Cloud Integrations**  
-- 🤝 Collaborating on impactful projects like [Fast Food App](https://appetize.io/app/android/com.example.food_order?device=pixel7&osVersion=13.0&toolbar=true)  
+- 🌱 Learning **ReactJS**, **Next.js**  
+- 🤝 Collaborating on impactful projects like [FarmerCrate App](https://appetize.io/app/android/com.example.food_order?device=pixel7&osVersion=13.0&toolbar=true)  
 - 💬 Ask me about: `Django`, `REST APIs`, `Express.js`, `MySQL`  
 - 📫 Reach me at: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)  
 - 📄 [View My Resume](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
@@ -37,19 +35,27 @@
 ## ⚙️ Tech Stack
 
 <div align="center" style="background-color:#ffffff20; padding:6px; border-radius:10px; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" title="Django"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" title="ReactJS"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" title="Express.js" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" title="Postman"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" title="Django"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="ReactJS"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" title="Express.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" title="Oracle"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" title="PHP"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" title="GitLab"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" title="Ubuntu"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/>
 </div>
 
 ---
@@ -61,11 +67,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/itzz_mk_official.16/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+  <a href="https://leetcode.com/u/Manikandan16A/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" />
   </a>
 </p>
