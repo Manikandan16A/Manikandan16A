@@ -19,8 +19,7 @@
 - 🌱 Learning **ReactJS**, **Next.js**  
 - 🤝 Collaborating on impactful projects like [FarmerCrate App](https://github.com/Manikandan16A/FarmerCrate.git)
 - 💬 Ask me about: `Django`, `REST APIs`, `Java`, `SQL`  
-- 📫 Reach me at: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)  
-- 📄 [View My Resume](https://rxresu.me/manikandanmk1657/manikandan-a-resume)
+- 📫 Reach me at: [manikandanmk1657@gmail.com](mailto:manikandanmk1657@gmail.com)
 
 ---
 
@@ -37,7 +36,6 @@
 <div align="center" style="background-color:#ffffff20; padding:6px; border-radius:10px; display:inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" title="Django"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="ReactJS"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="30" title="Express.js"/>&nbsp;
@@ -50,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" title="GitLab"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" title="Ubuntu"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" title="MongoDB"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>&nbsp;
