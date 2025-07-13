@@ -1,16 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Manikandan A</h1>
 <h3 align="center">💻 Full Stack Developer | 🌱 Passionate Learner | 🇮🇳 Based in India</h3>
 
-<!-- 📽️ Animated Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="80%" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manikandan16A&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🔍 About Me
